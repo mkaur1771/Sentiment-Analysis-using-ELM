@@ -6,4 +6,5 @@ Extreme Learning Machine (ELM) was first proposed by Huang in 2006, targets keep
 #### Limitations
 Due to some limitations algorithm didnot achieve the desired output or outperform the performance because of the number of Hidden node required is high also accuracy obtained over multiple run has high variance in test accuracy due to random input weight.
 
-Future work will be improving these limitations and the performance of ELM.
+In this work i made an in-depth survey of use-case of ELM using features TF-IDF. In future heuristic optimization can be integrated to input weight of ELM to obtain higher performance with less number of hidden nodes.
+ 
